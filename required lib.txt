@@ -1,0 +1,9 @@
+TensorFlow 
+
+Torch 
+
+Tkinter
+
+NumPy
+
+NLTK (Natural Language Toolkit)
